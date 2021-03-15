@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mon site personnel</title>
+	</head>
+	<body>
+		<h1>Mon nom</h1>
+		<img src="https://3wa.fr/wp-content/themes/3wa/images/logos/big.gif" />
+        <p>1er paragraphe</p>
+        <p>2eme paragraphe</p>
+        <p>3eme paragraphe</p>
+        <a href="https://www.youtube.com/results?search_query=giorno+vs+diavolo"></a>
+		<a href="https://www.youtube.com/watch?v=N6wjq2zW4VM"></a>
+	</body>
+</html>
